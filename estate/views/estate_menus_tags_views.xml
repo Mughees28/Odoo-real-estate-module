@@ -1,0 +1,7 @@
+<odoo>
+
+
+    <menuitem id="tag_menu_action" name="Property Tags" parent="first_level_menu" action="tag_model_action"/>
+
+
+</odoo>

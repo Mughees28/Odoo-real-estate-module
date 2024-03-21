@@ -1,0 +1,8 @@
+<odoo>
+
+
+    <menuitem id="first_level_menu" name="Settings" parent="test_menu_root"/>
+    <menuitem id="type_menu_action" name="Property Types" parent="first_level_menu" action="type_model_action"/>
+
+
+</odoo>
