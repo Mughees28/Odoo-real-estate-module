@@ -19,6 +19,8 @@ The Odoo Real Estate Module manages real estate properties, including their desc
 1. Log in to your Odoo instance.
 2. Go to the Apps menu and install the Real Estate Module.
 3. Once installed, you can access the Real Estate Module from the main menu.
+4. Create advertisements for properties to attract potential buyers.
+5. Make and manage offers on properties to facilitate sales negotiations.
 ## Features
 - Manage real estate properties.
 - Track property descriptions, prices, and availability.
