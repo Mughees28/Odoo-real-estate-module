@@ -9,10 +9,12 @@ The Odoo Real Estate Module manages real estate properties, including their desc
 2. Install PostgreSQL database.
 3. Make a Python virtual environment.
 4. Install all the packages/libraries you will need for working with Odoo.
-5. Create module 'estate'.
-6. Move the `estate` directory to your Odoo addons directory.
-7. Add addons path to conf file.
-8. Restart the Odoo server.
+5. Intall Pycharm.
+6. Configure Pycharm add relevant paths.
+7. Create module `estate`.
+8. Move the `estate` directory to your Odoo addons directory.
+9. Add addons path to conf file.
+10. Restart the Odoo server.
 ## Usage
 1. Log in to your Odoo instance.
 2. Go to the Apps menu and install the Real Estate Module.
